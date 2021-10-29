@@ -1,0 +1,6 @@
+alogrithm to add two numbers
+1.start
+2,accept two numbers
+3.perform addition two steps
+4.display the result
+5.stop
