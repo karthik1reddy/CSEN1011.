@@ -1,0 +1,6 @@
+step1:find weather the number is prime or composite
+step2: accept the number  (greater then 2)
+step3:initalize counter with value 2
+step4: divide a number with counter value,
+            if the remainder is zero display that postive number is composite
+           else inpliement in counter if the remainder is not zero and repeat step 3 again
